@@ -1,2 +1,2 @@
 # go-backend-template
-A templace for creating a Go backend applications
+A template for creating a Go backend applications
